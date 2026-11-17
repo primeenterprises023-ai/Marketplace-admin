@@ -1,0 +1,10 @@
+{
+  "name": "automercado-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel administrativo do AutoMercado Angola (site estático, sem build de framework)",
+  "scripts": {
+    "build": "node scripts/build-config.js",
+    "test": "node --test test/frontend.test.js"
+  }
+}
