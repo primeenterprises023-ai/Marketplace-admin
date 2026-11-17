@@ -1,0 +1,3 @@
+Coloca aqui o ficheiro logo.png (o mesmo logótipo do site).
+O painel usa-o no menu lateral e no ecrã de login. Se o ficheiro não existir,
+mostra o nome "AutoMercado Angola" em texto.
